@@ -5,4 +5,6 @@ Explicit denisity models.
 <!-- $$
 \sum_{i=0}^n
 $$ --> 
-<div align="center"><img style="background: white;" src="svg/z6mG0I1iO0.svg"></div>
+
+<div align="center"><img style="background: white;" src="svg/2oRhE10z51.svg"></div>
+
