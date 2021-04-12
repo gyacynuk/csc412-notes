@@ -1,5 +1,5 @@
-# CSC412 Lecture Notes: Variational Auto Encoders
-The following lecture notes are based upon the week 9 lecture from CSC412: VAEs. They have been augmented with additional content from previous lectures, as well as Diederik Kingma's thesis paper, Variational Inference & Deep Learning: A New Synthesis.
+# CSC412 Week 9 Lecture Notes
+The following lecture notes are based upon the week 9 lecture from CSC412: VAEs. They have been augmented with additional content from previous lectures, as well as with Diederik Kingma's thesis paper, Variational Inference & Deep Learning: A New Synthesis. Finally, it should be noted that all included artwork is original.
 
 ## Probabilistic Modelling
 Let's start by assuming we have some dataset of observed variables 𝐗, |𝐗| = N, where each sample 𝑥 𝛜 𝐗 is independent and identically distributed according to some true distribution, p*(𝑥), that is unknown to us. Our goal is to build a probabilistic model, p<sub>θ</sub>(𝑥), that approximates this true distribution.
