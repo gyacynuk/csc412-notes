@@ -1,5 +1,6 @@
 # CSC412 Week 9 Lecture Notes
-The following lecture notes are based upon the week 9 lecture from CSC412: VAEs. They have been augmented with additional content from previous lectures, as well as with Diederik Kingma's thesis paper, Variational Inference & Deep Learning: A New Synthesis. Finally, it should be noted that all included artwork is original.
+#### Organized by: Griffin Yacynuk
+The following lecture notes are based upon the week 9 lecture from CSC412: VAEs. They have been augmented with additional content from previous lectures, as well as with Diederik Kingma's thesis paper, Variational Inference & Deep Learning: A New Synthesis. Furthermore, it should be noted that all included artwork is original. Finally, please view this with the Github light theme for maximum visibility of embedded formulae.
 
 ## Probabilistic Modelling
 Let's start by assuming we have some dataset of observed variables 𝐗, |𝐗| = N, where each sample 𝑥 𝛜 𝐗 is independent and identically distributed according to some true distribution, p*(𝑥), that is unknown to us. Our goal is to build a probabilistic model, p<sub>θ</sub>(𝑥), that approximates this true distribution.
